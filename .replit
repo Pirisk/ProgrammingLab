@@ -1,0 +1,5 @@
+language = "bash"
+run = ""
+
+// per sapere dove sono con git scrivi in shell : 
+// git status  
